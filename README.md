@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @IkauOsu
+- 👋 Hi, I’m @Noqturrnally
 -  I like osu
-- 🌱 I’m currently learning C# and Unity 
-- 💞️ I’m looking to collaborate on osu repositories
-- 📫 My discord is RyzenPro20#7407
+- 🌱 I’m good at C# and Python
+- 📫 My discord is Noqturrnal#1085
 
 
