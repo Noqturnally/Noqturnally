@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#, Ruby and Python**
 
-- 👯 I’m looking to collaborate on **Jarvis A.I (recoded by my cuz)**
+- 👯 I’m looking to collaborate on **Jarvis A.I (coded by my cuz)**
 
 - 💬 Ask me about **c# doubts**
 
